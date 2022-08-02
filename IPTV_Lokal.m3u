@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1,LOCAL - [001] TVONE
+http://10.6.61.60:8999/stream=1.ts
+#EXTINF:-1,LOCAL - [002] SCTV
+http://10.6.61.60:8999/stream=5.ts
+#EXTINF:-1,LOCAL - [003] OCHANNEL
+http://10.6.61.60:8999/stream=6.ts
+#EXTINF:-1,LOCAL - [004] INDOSIAR 1
+http://10.6.61.60:8999/stream=10.ts
+#EXTINF:-1,LOCAL - [005] METROTV HD
+http://10.6.61.60:8999/stream=21.ts
+#EXTINF:-1,LOCAL - [006] JTV
+http://10.6.61.60:8999/stream=24.ts
+#EXTINF:-1,LOCAL - [007] METROTV SD
+http://10.6.61.60:8999/stream=34.ts
+#EXTINF:-1,LOCAL - [008] iNews
+http://10.6.61.60:8999/stream=35.ts
+#EXTINF:-1,LOCAL - [009] NET. SD
+http://10.6.61.60:8999/stream=40.ts
+#EXTINF:-1,LOCAL - [010] NET. HD
+http://10.6.61.60:8999/stream=41.ts
+#EXTINF:-1,LOCAL - [011] TVRI Sport
+http://10.6.61.60:8999/stream=127.ts
+#EXTINF:-1,LOCAL - [012] TVRI Nasional
+http://10.6.61.60:8999/stream=128.ts
+#EXTINF:-1,LOCAL - [013] TRANS TV
+http://10.6.61.60:8999/stream=131.ts
+#EXTINF:-1,LOCAL - [014] TRANS7 Digital
+http://10.6.61.60:8999/stream=132.ts
+#EXTINF:-1,LOCAL - [015] TRANS7 HD
+http://10.6.61.60:8999/stream=140.ts
+#EXTINF:-1,LOCAL - [016] TRANS TV HD
+http://10.6.61.60:8999/stream=138.ts
+#EXTINF:-1,LOCAL - [017] ANTV
+http://10.6.61.60:8999/stream=142.ts
+#EXTINF:-1,LOCAL - [018] Sinema Indonesia
+http://10.6.61.60:8999/stream=188.ts
+#EXTINF:-1,LOCAL - [019] KOMPAS TV
+http://10.6.61.60:8999/stream=195.ts
+#EXTINF:-1,LOCAL - [020] NUSANTARA TV
+http://10.6.61.60:8999/stream=197.ts
