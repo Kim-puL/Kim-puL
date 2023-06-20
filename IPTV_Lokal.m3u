@@ -1,42 +1,243 @@
 #EXTM3U
-
-#EXTINF:-1,LOCAL - [001] TVONE
-http://10.6.61.60:8999/stream=1.ts
-#EXTINF:-1,LOCAL - [002] SCTV
-http://10.6.61.60:8999/stream=5.ts
-#EXTINF:-1,LOCAL - [003] OCHANNEL
-http://10.6.61.60:8999/stream=6.ts
-#EXTINF:-1,LOCAL - [004] INDOSIAR 1
-http://10.6.61.60:8999/stream=10.ts
-#EXTINF:-1,LOCAL - [005] METROTV HD
-http://10.6.61.60:8999/stream=21.ts
-#EXTINF:-1,LOCAL - [006] JTV
-http://10.6.61.60:8999/stream=24.ts
-#EXTINF:-1,LOCAL - [007] METROTV SD
-http://10.6.61.60:8999/stream=34.ts
-#EXTINF:-1,LOCAL - [008] iNews
-http://10.6.61.60:8999/stream=35.ts
-#EXTINF:-1,LOCAL - [009] NET. SD
-http://10.6.61.60:8999/stream=40.ts
-#EXTINF:-1,LOCAL - [010] NET. HD
-http://10.6.61.60:8999/stream=41.ts
-#EXTINF:-1,LOCAL - [011] TVRI Sport
-http://10.6.61.60:8999/stream=127.ts
-#EXTINF:-1,LOCAL - [012] TVRI Nasional
-http://10.6.61.60:8999/stream=128.ts
-#EXTINF:-1,LOCAL - [013] TRANS TV
-http://10.6.61.60:8999/stream=131.ts
-#EXTINF:-1,LOCAL - [014] TRANS7 Digital
-http://10.6.61.60:8999/stream=132.ts
-#EXTINF:-1,LOCAL - [015] TRANS7 HD
-http://10.6.61.60:8999/stream=140.ts
-#EXTINF:-1,LOCAL - [016] TRANS TV HD
-http://10.6.61.60:8999/stream=138.ts
-#EXTINF:-1,LOCAL - [017] ANTV
-http://10.6.61.60:8999/stream=142.ts
-#EXTINF:-1,LOCAL - [018] Sinema Indonesia
-http://10.6.61.60:8999/stream=188.ts
-#EXTINF:-1,LOCAL - [019] KOMPAS TV
-http://10.6.61.60:8999/stream=195.ts
-#EXTINF:-1,LOCAL - [020] NUSANTARA TV
-http://10.6.61.60:8999/stream=197.ts
+#EXTINF:0,1. TVONE
+http://10.6.61.229:8999/stream=1.ts
+#EXTINF:0,2. GMN TV SD
+http://10.6.61.229:8999/stream=2.ts
+#EXTINF:0,3. GMN TV HD
+http://10.6.61.229:8999/stream=4.ts
+#EXTINF:0,4. SCTV
+http://10.6.61.229:8999/stream=5.ts
+#EXTINF:0,5. $O CHANNEL
+http://10.6.61.229:8999/stream=6.ts
+#EXTINF:0,6. $LIVE FEED SCTV
+http://10.6.61.229:8999/stream=8.ts
+#EXTINF:0,7. $LIVE FEED INDOSIAR
+http://10.6.61.229:8999/stream=9.ts
+#EXTINF:0,8. $INDOSIAR
+http://10.6.61.229:8999/stream=10.ts
+#EXTINF:0,9. SEA TODAY
+http://10.6.61.229:8999/stream=11.ts
+#EXTINF:0,10. Sinema X
+http://10.6.61.229:8999/stream=12.ts
+#EXTINF:0,11. ATV
+http://10.6.61.229:8999/stream=13.ts
+#EXTINF:0,12. Elshinta
+http://10.6.61.229:8999/stream=14.ts
+#EXTINF:0,13. Beautivi
+http://10.6.61.229:8999/stream=15.ts
+#EXTINF:0,14. DIGDAYA TV
+http://10.6.61.229:8999/stream=16.ts
+#EXTINF:0,15. PALAPA CHANNEL-10
+http://10.6.61.229:8999/stream=17.ts
+#EXTINF:0,16. TVP
+http://10.6.61.229:8999/stream=18.ts
+#EXTINF:0,17. Al Arabiyah
+http://10.6.61.229:8999/stream=19.ts
+#EXTINF:0,18. MCINE
+http://10.6.61.229:8999/stream=20.ts
+#EXTINF:0,19. METROTV HD
+http://10.6.61.229:8999/stream=21.ts
+#EXTINF:0,20. Channel 14 HD
+http://10.6.61.229:8999/stream=22.ts
+#EXTINF:0,21. METROTV JATIM
+http://10.6.61.229:8999/stream=23.ts
+#EXTINF:0,22. JTV SBY
+http://10.6.61.229:8999/stream=24.ts
+#EXTINF:0,23. IAM CHANNEL 5H
+http://10.6.61.229:8999/stream=25.ts
+#EXTINF:0,24. CH7
+http://10.6.61.229:8999/stream=26.ts
+#EXTINF:0,25. TRIAL 1
+http://10.6.61.229:8999/stream=27.ts
+#EXTINF:0,26. TRIAL 2
+http://10.6.61.229:8999/stream=28.ts
+#EXTINF:0,27. New Service 21
+http://10.6.61.229:8999/stream=29.ts
+#EXTINF:0,28. New Service 22
+http://10.6.61.229:8999/stream=30.ts
+#EXTINF:0,29. BERKAH SHOP TV
+http://10.6.61.229:8999/stream=31.ts
+#EXTINF:0,30. INDOSAT
+http://10.6.61.229:8999/stream=33.ts
+#EXTINF:0,31. METROTV
+http://10.6.61.229:8999/stream=34.ts
+#EXTINF:0,32. $iNews(MPEG4)
+http://10.6.61.229:8999/stream=35.ts
+#EXTINF:0,33. $GTV(MPEG4)
+http://10.6.61.229:8999/stream=36.ts
+#EXTINF:0,34. $RCTI(MPEG4)
+http://10.6.61.229:8999/stream=37.ts
+#EXTINF:0,35. $MNC(MPEG-4)
+http://10.6.61.229:8999/stream=38.ts
+#EXTINF:0,36. RTTL
+http://10.6.61.229:8999/stream=39.ts
+#EXTINF:0,37. NET. SD
+http://10.6.61.229:8999/stream=40.ts
+#EXTINF:0,38. NET. HD
+http://10.6.61.229:8999/stream=41.ts
+#EXTINF:0,39. Efarina_tv
+http://10.6.61.229:8999/stream=42.ts
+#EXTINF:0,40. TVRI PAPUA
+http://10.6.61.229:8999/stream=43.ts
+#EXTINF:0,41. TVRI Kalimantan Selatan
+http://10.6.61.229:8999/stream=122.ts
+#EXTINF:0,42. TVRI Maluku
+http://10.6.61.229:8999/stream=123.ts
+#EXTINF:0,43. TVRI NTB
+http://10.6.61.229:8999/stream=124.ts
+#EXTINF:0,44. TVRI Sulawesi Utara
+http://10.6.61.229:8999/stream=125.ts
+#EXTINF:0,45. TVRI Sulawesi Selatan
+http://10.6.61.229:8999/stream=126.ts
+#EXTINF:0,46. $TVRI Sport
+http://10.6.61.229:8999/stream=127.ts
+#EXTINF:0,47. $TVRI Nasional
+http://10.6.61.229:8999/stream=128.ts
+#EXTINF:0,48. TVRI Kanal 3
+http://10.6.61.229:8999/stream=129.ts
+#EXTINF:0,49. $TVRI Nasional
+http://10.6.61.229:8999/stream=130.ts
+#EXTINF:0,50. TRANS TV
+http://10.6.61.229:8999/stream=131.ts
+#EXTINF:0,51. $TRANS7 DIGITAL
+http://10.6.61.229:8999/stream=132.ts
+#EXTINF:0,52. MTA_TV
+http://10.6.61.229:8999/stream=135.ts
+#EXTINF:0,53. $CNN INDONESIA HD
+http://10.6.61.229:8999/stream=137.ts
+#EXTINF:0,54. TRANS TV HD
+http://10.6.61.229:8999/stream=138.ts
+#EXTINF:0,55. $CNBC INDONESIA HD
+http://10.6.61.229:8999/stream=139.ts
+#EXTINF:0,56. TRANS 7 HD
+http://10.6.61.229:8999/stream=140.ts
+#EXTINF:0,57. TVRI KALTENG   
+http://10.6.61.229:8999/stream=141.ts
+#EXTINF:0,58. ANTV
+http://10.6.61.229:8999/stream=142.ts
+#EXTINF:0,59. Rodja TV
+http://10.6.61.229:8999/stream=143.ts
+#EXTINF:0,60. MGI TV
+http://10.6.61.229:8999/stream=144.ts
+#EXTINF:0,61. InsanTV
+http://10.6.61.229:8999/stream=146.ts
+#EXTINF:0,62. AshiilTV
+http://10.6.61.229:8999/stream=147.ts
+#EXTINF:0,63. SurauTV
+http://10.6.61.229:8999/stream=148.ts
+#EXTINF:0,64. AhsanTV
+http://10.6.61.229:8999/stream=149.ts
+#EXTINF:0,65. MuadzTV
+http://10.6.61.229:8999/stream=150.ts
+#EXTINF:0,66. RasyaadTV
+http://10.6.61.229:8999/stream=151.ts
+#EXTINF:0,67. IzzahTV
+http://10.6.61.229:8999/stream=152.ts
+#EXTINF:0,68. NiagaTV
+http://10.6.61.229:8999/stream=153.ts
+#EXTINF:0,69. HijrahTV
+http://10.6.61.229:8999/stream=154.ts
+#EXTINF:0,70. Al-ImanTV
+http://10.6.61.229:8999/stream=155.ts
+#EXTINF:0,71. Salam TV
+http://10.6.61.229:8999/stream=156.ts
+#EXTINF:0,72. Madinah
+http://10.6.61.229:8999/stream=157.ts
+#EXTINF:0,73. Makkah
+http://10.6.61.229:8999/stream=158.ts
+#EXTINF:0,74. Radio Kita TV
+http://10.6.61.229:8999/stream=159.ts
+#EXTINF:0,75. Wesal TV
+http://10.6.61.229:8999/stream=160.ts
+#EXTINF:0,76. MHO TV
+http://10.6.61.229:8999/stream=161.ts
+#EXTINF:0,77. Bin Baz TV
+http://10.6.61.229:8999/stream=162.ts
+#EXTINF:0,78. TVRI Kaltara
+http://10.6.61.229:8999/stream=163.ts
+#EXTINF:0,79. Alfurqon TV
+http://10.6.61.229:8999/stream=164.ts
+#EXTINF:0,80. IntechTV
+http://10.6.61.229:8999/stream=165.ts
+#EXTINF:0,81. YouTV
+http://10.6.61.229:8999/stream=166.ts
+#EXTINF:0,82. JayaTV
+http://10.6.61.229:8999/stream=167.ts
+#EXTINF:0,83. TVRI Bali
+http://10.6.61.229:8999/stream=168.ts
+#EXTINF:0,84. TVRI Jabar
+http://10.6.61.229:8999/stream=169.ts
+#EXTINF:0,85. TVRI Jateng
+http://10.6.61.229:8999/stream=170.ts
+#EXTINF:0,86. TVRI Jatim
+http://10.6.61.229:8999/stream=171.ts
+#EXTINF:0,87. ATV (Asian TV Movie)
+http://10.6.61.229:8999/stream=172.ts
+#EXTINF:0,88. TVRI Sumut
+http://10.6.61.229:8999/stream=173.ts
+#EXTINF:0,89. TVRI Papua Barat
+http://10.6.61.229:8999/stream=174.ts
+#EXTINF:0,90. TVRI Sulsel
+http://10.6.61.229:8999/stream=175.ts
+#EXTINF:0,91. Suska TV
+http://10.6.61.229:8999/stream=176.ts
+#EXTINF:0,92. SunnahJalanPastiTV
+http://10.6.61.229:8999/stream=177.ts
+#EXTINF:0,93. RTM Maubere
+http://10.6.61.229:8999/stream=178.ts
+#EXTINF:0,94. BETV
+http://10.6.61.229:8999/stream=179.ts
+#EXTINF:0,95. Rakyat Bengkulu TV (RBTV)
+http://10.6.61.229:8999/stream=180.ts
+#EXTINF:0,96. TVRI Kalimantan Timur
+http://10.6.61.229:8999/stream=181.ts
+#EXTINF:0,97. TVRI Sumsel
+http://10.6.61.229:8999/stream=182.ts
+#EXTINF:0,98. TVRI Kepri
+http://10.6.61.229:8999/stream=183.ts
+#EXTINF:0,99. AlBahjah TV
+http://10.6.61.229:8999/stream=184.ts
+#EXTINF:0,100. JITV
+http://10.6.61.229:8999/stream=185.ts
+#EXTINF:0,101. TVRI Riau
+http://10.6.61.229:8999/stream=186.ts
+#EXTINF:0,102. Home Shopping Live
+http://10.6.61.229:8999/stream=187.ts
+#EXTINF:0,103. Sinema Indonesia
+http://10.6.61.229:8999/stream=188.ts
+#EXTINF:0,104. K-Drama
+http://10.6.61.229:8999/stream=189.ts
+#EXTINF:0,105. SinemaX
+http://10.6.61.229:8999/stream=190.ts
+#EXTINF:0,106. DrakorPlus
+http://10.6.61.229:8999/stream=191.ts
+#EXTINF:0,107. TVP
+http://10.6.61.229:8999/stream=192.ts
+#EXTINF:0,108. KTV
+http://10.6.61.229:8999/stream=193.ts
+#EXTINF:0,109. TVin
+http://10.6.61.229:8999/stream=194.ts
+#EXTINF:0,110. KompasTV
+http://10.6.61.229:8999/stream=195.ts
+#EXTINF:0,111. India
+http://10.6.61.229:8999/stream=196.ts
+#EXTINF:0,112. Nusantara TV
+http://10.6.61.229:8999/stream=197.ts
+#EXTINF:0,113. Home Shopping Regular
+http://10.6.61.229:8999/stream=198.ts
+#EXTINF:0,114. DAAI TV
+http://10.6.61.229:8999/stream=199.ts
+#EXTINF:0,115. FTV
+http://10.6.61.229:8999/stream=200.ts
+#EXTINF:0,116. FatwaTV
+http://10.6.61.229:8999/stream=201.ts
+#EXTINF:0,117. Elshinta
+http://10.6.61.229:8999/stream=202.ts
+#EXTINF:0,118. DM TV
+http://10.6.61.229:8999/stream=203.ts
+#EXTINF:0,119. MCine
+http://10.6.61.229:8999/stream=204.ts
+#EXTINF:0,120. JayaTV
+http://10.6.61.229:8999/stream=205.ts
+#EXTINF:0,121. RRI-NET
+http://10.6.61.229:8999/stream=206.ts
